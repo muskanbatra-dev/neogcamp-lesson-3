@@ -119,8 +119,7 @@ color: var(--primarycolor);
 /**section**/
 
 .section h1 {
-    text-align: center;
-    padding: 2rem;
+    padding: 0rem;
 }
 
 .ow {
