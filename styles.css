@@ -134,6 +134,9 @@ color: var(--primarycolor);
 
 .ow {
     background-color: var(--offwhite);
+    display: block;
+    block-size: 4cm;
+    
 
      
 }
